@@ -1,0 +1,23 @@
+{
+    "name": "almasaeed2010/wixis360",
+    "description": "wixis360 - admin control panel and dashboard that's based on Bootstrap 4",
+    "homepage": "",
+    "keywords": [
+        "css",
+        "js",
+        "less",
+        "responsive",
+        "back-end",
+        "template",
+        "theme",
+        "web",
+        "admin"
+    ],
+    "authors": [{
+        "name": "Colorlib"
+    }],
+    "license": "MIT",
+    "support": {
+        "issues": ""
+    }
+}
